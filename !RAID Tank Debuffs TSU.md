@@ -2,6 +2,16 @@
 
 ![!RAID Tank Debuffs TSU](/Pictures/RAID_Tank_Debuffs_TSU.png?raw=true "!RAID Tank Debuffs TSU")
 
+Shows debuffs on tanks and buffs on bosses in raids. Over-engineered, but so cool the ground will freeze under you when you use this.
+
+Export string | Descripion
+------------- | ----------
+[!RAID Tank Debuffs TSU.txt](/ExportStrings/!RAID%20Tank%20Debuffs%20TSU.txt) | Shows debuffs on tanks and buffs on bosses in raids.
+
+---
+
+## Basic information
+
 Trigger State Updater (TSU) based auto-cloning raidgroup tank debuff and boss buff -tracker for tanks. It shows pre-defined tank debuffs and boss buffs with stack counter, timer for time remaining and posibility to highlight certain stack count to indicate time for tank swap, all grouped nicely by character and all the groupnames are clearly shown for improved readability.
 
 Everything is pivoting around Player's first debuff icon so use it to position the auragroup properly:
@@ -37,8 +47,7 @@ The default action can be found under the section [Set up "On Init"-action](/!RA
 
 ## Building
 
-Easiest way is to import [!RAID Tank Debuffs TSU.txt](/!RAID%20Tank%20Debuffs%20TSU.txt), but if you want to, you can easily make your own.
-
+Easiest is to import the export string, but it isn't hard to recreate this by your own with these instructions.
 
 ### Create Dynamic Group and Icon-type aura
 
@@ -514,7 +523,7 @@ All these settings are just an example, you can use your own imagination if this
 
 Now we need to setup when to actually show the glow and other dynamic styling. You can play with these settings if you want or add more of your own conditions.
 
-Desaturate all except my own debuffs:
+Desaturate all except Player's own debuffs:
 ```
 If Trigger 1
 	isMe == False
@@ -658,6 +667,19 @@ end
 
 What the above function does is, it groups the clones into groups per tank or boss and draws them in rows. The function also sets the first icon to have the unit's name shown on the right side of the icon and grow the other icons to the left of the previous icon. Player's first icon always gets the central pivoting position and bosses' rows are sorted above your row and other tanks rows are sorted below your row.
 
-And that's it, we are all done. If you are not getting any errors, the aura should work and if you want, you can set it up to load only when you are tanking and/or in instance.
+And that's it, we are all done. If you are not getting any errors, the aura should work and if you want, you can set it up to load only when you are tanking and/or in instance. If you get any errors, make sure you have entered all the custom functions in their entireity and if you have added new `spellId`s to the `OnInit`-action, make sure you have added commas (***,***) after each line of `spellId`s.
+
+I have included table of screenshots of the auragroup from WeakAuras so you can compare your settings if you run into any troubles.
+
+Tab | Screenshot
+--- | ----------
+Group | [Group](/Pictures/RAID_Tank_Debuffs_TSU_Construct_Group.png?raw=true)
+Trigger | [Trigger 1](/Pictures/RAID_Tank_Debuffs_TSU_Construct_Trigger1.png?raw=true)
+Trigger | [Trigger 2](/Pictures/RAID_Tank_Debuffs_TSU_Construct_Trigger2.png?raw=true)
+Conditions | [Conditions](/Pictures/RAID_Tank_Debuffs_TSU_Construct_Conditions.png?raw=true)
+Load | [Load](/Pictures/RAID_Tank_Debuffs_TSU_Construct_Load.png?raw=true)
+Actions | [Actions](/Pictures/RAID_Tank_Debuffs_TSU_Construct_Actions.png?raw=true)
+Animations | [Animations](/Pictures/RAID_Tank_Debuffs_TSU_Construct_Animations.png?raw=true)
+Custom Options | [Custom Options](/Pictures/RAID_Tank_Debuffs_TSU_Construct_CustomOptions.png?raw=true)
 
 ---

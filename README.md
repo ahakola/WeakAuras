@@ -15,287 +15,167 @@ Pre-WoD stuff has been lost like tears in the rain. If you have WAs made/collect
 ## Auras
 
 ### !RAID Tank Debuffs TSU
+
 ![!RAID Tank Debuffs TSU](/Pictures/RAID_Tank_Debuffs_TSU.png?raw=true "!RAID Tank Debuffs TSU")
 
-Shows debuffs on tanks and buffs on bosses in raids. Over-engineered, but so cool the ground will freeze under you when you use this.
+More info and screenshots: [!RAID Tank Debuffs TSU.md](/!RAID%20Tank%20Debuffs%20TSU.md)
 
-More info can be found in the [!RAID Tank Debuffs TSU.md](/!RAID%20Tank%20Debuffs%20TSU.md)
-
-
-### AfenarUI_CharProgression
-![AfenarUI_CharProgression](/Pictures/AfenarUI_CharProgression.png?raw=true "AfenarUI_CharProgression")
-
-Group of aurabars such as XP-bar, Rep-bar, Azerite-bar, Honor-bar, etc. Don't ask me who Afenar is or how his/her UI looks like, I just found this group ages ago from Internet and I have been fixing/updating the group on my own since then.
-
-
-### Annoyances
-
-Aura notifying if someone in the group uses `[Toy Train Set]` near you or `[Swap Blaster]` on you.
+Export string | Descripion
+------------- | ----------
+[!RAID Tank Debuffs TSU.txt](/ExportStrings/!RAID%20Tank%20Debuffs%20TSU.txt) | Shows debuffs on tanks and buffs on bosses in raids.
 
 
 ### Brewmaster Monk auras
+
 ![BrM Monk](/Pictures/BrM_Monk.png?raw=true "BrM Monk")
 
-`Black Ox Statue` - Information about your `[Black Ox Statue]`, for example remaining HP and CD. In the BfA game was changed so the Statue can show up as Totem 2 sometimes, but the auras work only when the Statue is the Totem 1.
+More info and screenshots: [Brewmaster Monk.md](/Brewmaster%20Monk.md)
 
-`BRM Monk - Stagger Bar` - Your average stagger bar, showing in colors your `[Stagger]` level (green for light, yellow for moderate and red for heavy) and total `[Stagger]` amount compared to your maxHP.
-
-`BrM Monk (BfA) - CDs` - Your big "CD" defensive abilities usable/on cooldown and also few tanking trinkets usable/on cooldown/remaining shielding amount.
-
-`BrM Monk (BfA) - Defensive` - Your currently active/usable defensive abilities, like Active Mitigation, `[Expell Harm]` usable, CDs and `[Elusive Brawler]` -percentage.
-
-`BrM Monk (BfA) - Rotation` - Cooldown/Uptime status of your offensive abilities.
-
-`BrM Monk Brews (BfA)` - Shows your available brew stacks, recharge time of your brews and `[Ironskin Brew]` (BrM Monk Active Mitigation) remaining time with color to tell you when to use and when to not use `[Ironskin Brew]`. **Requires the Defensive-group!**
-
-
-### Call to Arms
-![Call to Arms](/Pictures/Call_to_Arms.png?raw=true "Call to Arms")
-
-List current Call to Arms instances and specs.
+Export string | Descripion
+------------- | ----------
+[Black Ox Statue.txt](/ExportStrings/Black%20Ox%20Statue.txt) | Information about your `[Black Ox Statue]`.
+[BRM Monk - Stagger Bar.txt](/ExportStrings/BRM%20Monk%20-%20Stagger%20Bar.txt) | Your average stagger bar.
+[BrM Monk (BfA) - CDs.txt](/ExportStrings/BrM%20Monk%20(BfA)%20-%20CDs.txt) | Status of your big defensive abilities.
+[BrM Monk (BfA) - Defensive.txt](/ExportStrings/BrM%20Monk%20(BfA)%20-%20Defensive.txt) | Status of your currently active/usable defensive abilities.
+[BrM Monk (BfA) - Rotation.txt](/ExportStrings/BrM%20Monk%20(BfA)%20-%20Rotation.txt) | Cooldown/Uptime status of your offensive abilities.
+[BrM Monk Brews (BfA).txt](/ExportStrings/BrM%20Monk%20Brews%20(BfA).txt) | Show information about your available brews.
 
 
-### CombatRessAEE
-![CombatRessAEE](/Pictures/CombatRessAEE.png?raw=true "CombatRessAEE")
+### Mistweaver Monk
 
-Number of remaining Combat Resses and a counter for recharge time.
-
-
-### Currencies
-![Currencies](/Pictures/Currencies.png?raw=true "Currencies")
-
-List of different currencies and items used as currencies you have. Most of these are loaded only if you are in proper zone (for example `[Ancient Mana]` is shown only when in Suramar).
-
-
-### FeralDruidMeters
-
-Legion-era Feral Druid DoT -tracker aura, doesn't work in BfA
-
-
-### FPS Counter
-![FPS Counter 400%](/Pictures/FPS_Counter_400.png?raw=true "FPS Counter 400%")
-
-FPS counter with 1 sec and 5 secs average FPS. Picture is pretty bad and it is enlarged 400% of original.
-
-
-### HFC Gorefiend - Digest Timer
-
-WoD-era aurabar-style timer of `Gorefiend` raid-encounter in Hellfire Citadel.
-
-
-### Legion - AutoCloners
-
-Different raid related auto-cloning aurabars from Legion.
-
-
-### Legion - Pantheon Trinkets
-
-Aura to keep track of the Argus-raid trinkets
-
-
-### Legion - Suramar - Ancient Mana
-
-I think this is now part of the Currencies-group. Just shows the amount and the cap of your `[Ancient Mana]`. `[Ancient Mana]` is used as currency in Suramar-zone.
-
-
-### Legion - Wakening Essence
-
-I think this is now part of the Currencies-group. Shows the amount of `[Wakening Essence]` you have on you. `[Wakening Essence]` is used to buy the legendary-items in Legion.
-
-
-### Max Raid Cds Group
-![Max Raid Cds Group](/Pictures/Max_Raid_Cds_Group.png?raw=true "Max Raid Cds Group")
-
-Shows when someone in your raid group has personal offensive or raid wide defensive CDs active. Max in the name is Maximum, GM of the guild "Complexity Limit".
-
-
-### Mechagon Nazjatar Vignette Rare Scanner (Pimpped)
-
-Scans rare mobs in Mechagon and Nazjatar zones using minimap Vignettes.
-
-Found from Wago.io, but I pimpped it up to use DBM arrow if TomTom isn't available (I don't use it).
-
-
-### Mechagon Yell Rare Scanner (Pimpped)
-
-Scans rare mobs in Mechagon using the zone wide yells some rares do when they spawn.
-
-Found from Wago.io, but I pimpped it up to use DBM arrow if TomTom isn't available (I don't use it).
-
-
-### Monk - Windwalker Chi
-
-Your everyday Chi-point counter.
-
-
-### Monk - WW (Legion)
-
-Legion-era Windwalker Monk -group containing all you need(ed).
-
-
-### Mistweaver Monk auras
 ![MW Monk](/Pictures/MW_Monk.png?raw=true "MW Monk")
 
-`MW Monk CDs (BfA)` - Your big personal/group/raid "CD" abilities usable/on cooldown.
+More info and screenshots: [Mistweaver Monk.md](/Mistweaver%20Monk.md)
 
-`MW Monk Heals (BfA)` - Your `[Lifecycles]` status, `[Chi Burst]` cooldown status, `[Essence Font]` stack and cooldown status with counter for targets and `[Renewing Mist]` stack and cooldown status.
+Export string | Descripion
+------------- | ----------
+[MW Monk CDs (BfA).txt](/ExportStrings/MW%20Monk%20CDs%20(BfA).txt) | Your big cooldowns.
+[MW Monk Heals (BfA).txt](/ExportStrings/MW%20Monk%20Heals%20(BfA).txt) | Status of your healing spells.
+[MW Monk Utility (BfA).txt](/ExportStrings/MW%20Monk%20Utility%20(BfA).txt) | Status of your utility spells.
+[MW Monk.txt](/ExportStrings/MW%20Monk.txt) | Old Mistweaver Monk -group.
 
-`MW Monk Utility (BfA)` - Your `[Teachings of the Monastery]` stack counter, `[Detox]` cooldown status, and Tea statuses.
 
+### Windwalker Monk
 
-### MW Monk
+More info: [Windwalker Monk.md](/Windwalker%20Monk.md)
 
-Probably Legion-era Mistweaver Monk -group?
+Export string | Descripion
+------------- | ----------
+[Monk - Windwalker Chi.txt](/ExportStrings/Monk%20-%20Windwalker%20Chi.txt) | Your average Chi-bar.
+[Monk - WW (Legion).txt](/ExportStringsMonk%20-%20WW%20(Legion).txt) | Legion-era Windwalker Monk -group.
+[SEF.txt](/ExportStrings/SEF.txt) | Windwalker Monk's `[Storm, Earth, and Fire]`-tracker.
 
 
-### Nzoth VIgnette Assault Scanner (Pimpped)
+## Miscellaneous - Classes
 
-Scans rare mobs in Vale of the Eternal Blossom and Uldum zones using minimap Vignettes.
+More info and screenshots: [Miscellaneous - Classes.md](/Miscellaneous%20-%20Classes.md)
 
-Found from Wago.io, but I pimpped it up to use DBM arrow if TomTom isn't available (I don't use it).
+Export string | Descripion
+------------- | ----------
+[FeralDruidMeters.txt](/ExportStrings/FeralDruidMeters.txt) | Legion-era Feral Druid DoT -tracker.
+[Spirit Beast Finder.txt](/ExportStrings/Spirit%20Beast%%20Finder.txt) | Mark nameplates of tracked spirit beasts.
 
 
-### ORANGE_RINGS_TRALALA
+## Miscellaneous - Mixed
 
-WoD-era legendary ring usage and cooldown tracker.
+More info and screenshots: [Miscellaneous - Mixed.md](/Miscellaneous%20-%20Mixed.md)
 
+Export string | Descripion
+------------- | ----------
+[AfenarUI_CharProgression.txt](/ExportStrings/AfenarUI_CharProgression.txt) | Group of aurabars such as XP-bar, Rep-bar, Azerite-bar, Honor-bar, etc.
+[Annoyances.txt](/ExportStrings/Annoyances.txt) | Call out annoying stuff like `[Toy Train Set]` and `[Swap Blaster]`.
+[Call to Arms.txt](/ExportStrings/Call%20to%20Arms.txt) | List current Call to Arms instances and specs.
+[Currencies.txt](/ExportStrings/Currencies.txt) | List of different currencies and items used as currencies you have.
+[FPS Counter.txt](/ExportStrings/FPS%20Counter.txt) | FPS counter with 1 sec and 5 secs average FPS.
+[World Events.txt](/ExportStrings/World%20Events.txt) | Group of old auras used for help on World Events.
 
-### RaidMana
-![RaidMana](/Pictures/RaidMana.png?raw=true "RaidMana")
 
-Lists healers in your party/raid group with their mana percentages and calculates the average healer mana percentage from healer who are alive.
+## Miscellaneous - Legion
 
+More info: [Miscellaneous - Legion.md](/Miscellaneous%20-%20Legion.md)
 
-### SEF
+Export string | Descripion
+------------- | ----------
+[Legion - Suramar - Ancient Mana.txt](/ExportStrings/Legion%20-%20Suramar%20-%20Ancient%20Mana.txt) | Shows the amount and the cap of your `[Ancient Mana]`.
+[Legion - Wakening Essence.txt](/ExportStrings/Legion%20-%20Wakening%20Essence.txt) | Shows the amount of `[Wakening Essence]`.
 
-WoD?/Legion?-era, maybe even older?, tracker for Windwalker Monk's `[Storm, Earth, and Fire]`. This isn't useful anymore.
 
+## Miscellaneous - BfA
 
-### Spirit Beast Finder
-![Spirit Beast Finder](/Pictures/Spirit_Beast_Finder.png?raw=true "Spirit Beast Finder")
+More info: [Miscellaneous - BfA.md](/Miscellaneous%20-%20BfA.md)
 
-Makes a sound and marks the nameplate when this aura detects a nameplate of a spirit beast. You can configure what spirit beasts the aura tracks under `Custom Options`. Only loads with Beast Master Hunters.
+Export string | Descripion
+------------- | ----------
+[Mechagon Nazjatar Vignette Rare Scanner (Pimpped).txt](/ExportStrings/Mechagon%20Nazjatar%20Vignette%20Rare%20Scanner%20(Pimpped).txt) | Scans rare mobs in Mechagon and Nazjatar zones using minimap Vignettes.
+[Mechagon Yell Rare Scanner (Pimpped).txt](/ExportStrings/Mechagon%20Yell%20Rare%20Scanner%20(Pimpped).txt) | Scans rare mobs in Mechagon using the zone wide yells rares do when they spawn.
+[Nzoth VIgnette Assault Scanner (Pimpped).txt](/ExportStrings/Nzoth%20VIgnette%20Assault%20Scanner%20(Pimpped).txt) | Scans rare mobs in Vale of the Eternal Blossom and Uldum zones using minimap Vignettes.
 
 
-### WoD raids
+### Raids - General
 
-`T17 HM` - Auras for "Highmaul"-raid.
+More info and screenshots: [Raids - General.md](/Raids%20-%20General.md)
 
----
+Export string | Descripion
+------------- | ----------
+[CombatRessAEE.txt](/ExportStrings/CombatRessAEE.txt) | Combat Ress tracker.
+[Max Raid Cds Group.txt](/ExportStrings/Max%20Raid%20Cds%20Group.txt) | Show when someone in raid uses cooldown.
+[RaidMana.txt](/ExportStrings/RaidMana.txt) | Track healers mana in raid.
+[Target Health Rate (New).txt](/ExportStrings/Target%20Health%20Rate%20(New).txt) | Target Time-to-Die
 
-`T17 BRF` - Auras for "Blackrock Foundry"-raid.
-`T17 Widgets` - Additional non-icon type auras for T17-raids.
 
----
+### Raids - WoD
 
-`T18 HFC` - Auras for "Hellfire Citadel"-raid.
-`T18 Widgets` - Additional non-icon type auras for T18-raid.
+More info: [Raids - WoD.md](/Raids%20-%20WoD.md)
 
+Export string | Descripion
+------------- | ----------
+[HFC Gorefiend - Digest Timer.txt](/ExportStrings/HFC%20Gorefiend%20-%20Digest%20Timer.txt) | Timer for `Gorefiend` encounter in "Hellfire Citadel"-raid.
+[ORANGE_RINGS_TRALALA.txt](/ExportStrings/ORANGE_RINGS_TRALALA.txt) | Legendary ring usage and cooldown tracker.
+[T17 HM.txt](/ExportStrings/T17%20HM.txt) | Auras for "Highmaul"-raid.
+[T17 BRF.txt](/ExportStrings/T17%20BRF.txt) | Auras for "Blackrock Foundry"-raid.
+[T17 Widgets.txt](/ExportStrings/T17%20Widgets.txt) | Additional non-icon type auras for T17-raids.
+[T18 HFC.txt](/ExportStrings/T18%20HFC.txt) | Auras for "Hellfire Citadel"-raid.
+[T18 Widgets.txt](/ExportStrings/T18%20Widgets.txt) | Additional non-icon type auras for T18-raid.
 
-### Legion raids
 
-`T19 EN` - Auras for "Emerald Nightmare"-raid.
+### Raids - Legion
 
----
+More info: [Raids - Legion.md](/Raids%20-%20Legion.md)
 
-`T19 - ToV` - Auras for "Trial of Valor"-raid.
-`T19 - The Impostant One` - Don't let your healers sleep when stuff gets real! Typo in the name was an accident, but left it on purpose to see if anyone notices.
-
----
-
-`T19 - NH` - Auras for "Nighthold"-raid.
-`T19 Widgets` - Additional non-icon type auras for T19-raids.
-
----
-
-`T20 - ToS` - Auras for "Tomb of Sargeras"-raid.
-`T20 Widgets` - Additional non-icon type auras for T20-raid.
-
----
-
-`T21 - Antorus` - Auras for "Antorus, the Burning Throne"-raid.
-`T21 - The Impostant One` - Once again the healers were sleepy in wrong time!
-`T21 Widgets` - Additional non-icon type auras for T21-raid.
-
-
-### BfA raids
-
-![T22 - Uldir - G'huun Orb Imperfect](/Pictures/T22-Uldir-G'huun_Orb_Imperfect.png?raw=true "T22 - Uldir - G'huun Orb Imperfect")
-
-`T22 - Uldir - G'huun Orb Imperfect` - Auto-cloner for tracking `[Imperfect]`-debuff on players on `G'huun` raid-encounter. Used to coordinate orb-duty during the encounter.
-
-![T22 - Uldir](/Pictures/T22-Uldir.png?raw=true "T22 - Uldir")
-
-`T22 - Uldir` - Auras for "Uldir"-raid.
-
-![T22 Widgets](/Pictures/T22-Widgets.png?raw=true "T22 Widgets")
-
-`T22 Widgets` - Additional non-icon type auras for T22-raid.
-
-For example 2 different styled Zap-timers for `Zek'voz`, intermission timer with damage ticks marked for `G'huun`, 2 different styled roof collapse timers for `G'huun` and 2 different styled floor explosion timers with one showing the time window when the explosions happens.
-
----
-
-![T23 - Auro-Cloners](/Pictures/T23-Auro-Cloners.png?raw=true "T23 - Auro-Cloners")
-
-`T23 - Auro-Cloners` - Auto-cloners for T23-raid.
-
-![T23 - BoD - The Zandalari Crown Jewels](/Pictures/T23-BoD-The_Zandalari_Crown_Jewels.png?raw=true "T23 - BoD - The Zandalari Crown Jewels")
-
-`T23 - BoD - The Zandalari Crown Jewels` - Information about the different gems during the `Oppulence` raid-encounter in the "Battle for Dazar'alor"-raid. Shows you the buffs you get from the gems and has also small information text what your gem does.
-
-![T23 - BoD - Spark Bot Tampering](/Pictures/T23-BoD-Spark_Bot_Tampering.png?raw=true "T23 - BoD - Spark Bot Tampering")
-
-`T23 - BoD - Spark Bot Tampering` - Auragroup used for Tampering during the `High Tinker Mekkatorque` raid-encounter in the "Battle for Dazar'alor"-raid. While Tampering, target other bot and press the correct button to send the information to the other bot. Shows progress information and the sent color information for both your current target and yourself based on the received information from players in other bots.
-
-![T23 - BoD](/Pictures/T23-BoD.png?raw=true "T23 - BoD")
-
-`T23 - BoD` - Auras for "Battle for Dazar'alor"-raid.
-
-![T23 - Widgets](/Pictures/T23-Widgets.png?raw=true "T23 - Widgets")
-
-`T23 - Widgets` - Additional non-icon type auras for T23-raid.
-
-For example HP difference bars for `Jadefire Masters`, energy bar for `Grong` with the sweetspot for `[Tantrum]`/`[Death Knell]` marked, HP difference for the guardians and guardian HP based room progressbar showing room changes and traps in every room with tips when to use CDs (doesn't render properly in the screenshot), Krag'wa leaping frog timer for the `Conclave of the Chosen` and HP difference for the phase 1 and `[Ire of the Deep]` timer for phase 2 of the `Stormwall Blockade`.
-
----
-
-![T24 - EP](/Pictures/T24-EP.png?raw=true "T24 - EP")
-
-`T24 - EP` - Auras for "The Eternal Palace"-raid.
-
-![T24 - Queen's Decree](/Pictures/T24-Queen's_Decree.png?raw=true "T24 - Queen's Decree")
-
-`T24 - Queen's Decree` - Helper for the intermissions during the `Queen Azshara` raid-encounter. Shows with big icons and green and red words what to do and/or what not do and also has smaller simplified text information what you should be doing during the intermissions.
-
-![T24 - Widgets](/Pictures/T24-Widgets.png?raw=true "T24 - Widgets")
-
-`T24 - Widgets` - Additional non-icon type auras for T24-raid.
-
-For example progress bar for the `[Dribbling Ichor]` (aka "dance") with damage ticks (ticks doesn't render properly in the screenshot) for `Orgozoa`, instructions with remaining time for all decrees for `Queen's Court`, timer for `[Maddening Eruptions]`-zone explosion (the damage taken debuff) for `Za'qul` and soakable stacks counter for wards, you can soak warning text and overload timer with overload stacks remaining counter for `Queen Azshara`.
-
----
-
-![T25 - Ny'alotha](/Pictures/T25-Ny'alotha.png?raw=true "T25 - Ny'alotha")
-
-`T25 - Ny'alotha` - Auras for "Ny'alotha, the Waking City"-raid.
-
-![T25 - Widgets](/Pictures/T25-Widgets.png?raw=true "T25 - Widgets")
-
-`T25 - Widgets` - Additional non-icon type auras for T25-raid.
-
-For example worldmarker reminder where to stand with `[Unstable Vita]` for `Ra-den the Despoiled` and `[Gift of N'Zoth]` (the damage buff before being MCed for losing all your Sanity) indicator for both `Carapace of N'Zoth` and `N'Zoth, the Corruptor`.
-
-
-### Target Health Rate (New)
-
-Counter counting time left for the target to die based on how fast/slow the HP goes down.
-
-
-### World Events
-![World Events](/Pictures/World_Events.png?raw=true "World Events")
-
-Old auras used for help on World Events. At least includes indicators for `Brewfest` ram racing such as speed indicator `[Ram Level - Neutral]`, `[Ram - Trot]`, `[Ram - Canter]` and `[Ram - Gallop]` with `[Ram Fatigue]` counter and indicators for `[Exhausted Ram]` and if you are carrying `[Portable Brewfest Keg]`.
-Also includes timer for the daily Ram Race -quest with time elapsed since and time left when you started your last round, counter for how many rounds you have completed, current round time elapsed, total time spent on quest, last round time, your best round time, average round time and median round time.
+Export string | Descripion
+------------- | ----------
+[Legion - AutoCloners.txt](/ExportStrings/Legion%20-%20AutoCloners.txt) | Different raid related auto-cloning aurabars.
+[Legion - Pantheon Trinkets.txt](/ExportStrings/Legion%20-%20Pantheon%20Trinkets.txt) | Argus-raid trinket tracker.
+[T19 EN.txt](/ExportStrings/T19%20EN.txt) | Auras for "Emerald Nightmare"-raid.
+[T19 - ToV.txt](/ExportStrings/T19%20-%20ToV.txt) | Auras for "Trial of Valor"-raid.
+[T19 - The Impostant One.txt](/ExportStrings/T19%20-%20The%20Impostant%20One.txt) | The impostant one is the important one
+[T19 - NH.txt](/ExportStrings/T19%20-%20NH.txt) | Auras for "Nighthold"-raid.
+[T19 Widgets.txt](/ExportStrings/T19%20Widgets.txt) | Additional non-icon type auras for T19-raid.
+[T20 - ToS.txt](/ExportStrings/T20%20-%20ToS.txt) | Auras for "Tomb of Sargeras"-raid.
+[T20 Widgets.txt](/ExportStrings/T20%20Widgets.txt) | Additional non-icon type auras for T20-raid.
+[T21 - Antorus.txt](/ExportStrings/T21%20-%20Antorus.txt) | Auras for "Antorus, the Burning Throne"-raid.
+[T21 - The Impostant One.txt](/ExportStrings/T21%20-%20The%20Impostant%20One.txt) | Don't let your healers fall asleep!
+[T21 Widgets.txt](/ExportStrings/T21%20Widgets.txt) | Additional non-icon type auras for T21-raid.
+
+
+## Raids - BfA
+
+More info and screenshots: [Raids - BfA.md](/Raids%20-%20BfA.md)
+
+Export string | Descripion
+------------- | ----------
+[T22 - Uldir - G'huun Orb Imperfect.txt](/ExportStrings/T22%20-%20Uldir%20-%20G'huun%20Orb%20Imperfect.txt) | Auto-cloner for tracking `[Imperfect]`-debuff.
+[T22 - Uldir.txt](/ExportStrings/T22%20-%20Uldir.txt) | Auras for "Uldir"-raid.
+[T22 Widgets.txt](/ExportStrings/T22%20Widgets.txt) | Additional non-icon type auras for T22-raid.
+[T23 - Auro-Cloners.txt](/ExportStrings/T23%20-%20Auro-Cloners.txt) | Auto-cloners for T23-raid.
+[T23 - BoD - The Zandalari Crown Jewels.txt](/ExportStrings/T23%20-%20BoD%20-%20The%20Zandalari%20Crown%20Jewels.txt) | `Oppulence` encounter gem info.
+[T23 - BoD - Spark Bot Tampering.txt](/ExportStrings/T23%20-%20BoD%20-%20Spark%20Bot%20Tampering.txt) | Tampering group for the `High Tinker Mekkatorque` encounter.
+[T23 - BoD.txt](/ExportStrings/T23%20-%20BoD.txt) | Auras for "Battle for Dazar'alor"-raid.
+[T23 - Widgets.txt](/ExportStrings/T23%20-%20Widgets.txt) | Additional non-icon type auras for T23-raid.
+[T24 - EP.txt](/ExportStrings/T24%20-%20EP.txt) | Auras for "The Eternal Palace"-raid.
+[T24 - Queen's Decree.txt](/ExportStrings/T24%20-%20Queen's%20Decree.txt) | Helper for the intermissions during the `Queen Azshara` encounter.
+[T24 - Widgets.txt](/ExportStrings/T24%20-%20Widgets.txt) | Additional non-icon type auras for T24-raid.
+[T25 - Ny'alotha.txt](/ExportStrings/T25%20-%20Ny'alotha.txt) | Auras for "Ny'alotha, the Waking City"-raid.
+[T25 - Widgets.txt](/ExportStrings/T25%20-%20Widgets.txt) | Additional non-icon type auras for T25-raid.
 
 ---
