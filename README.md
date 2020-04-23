@@ -15,15 +15,15 @@ Pre-WoD stuff has been lost like tears in the rain. If you have WAs made/collect
 ## Auras
 
 ###### !RAID Tank Debuffs TSU
-![!RAID Tank Debuffs TSU](https://github.com/ahakola/WeakAuras/raw/master/Screenshots/!RAID_Tank_Debuffs_TSU.png "!RAID Tank Debuffs TSU")
+![!RAID Tank Debuffs TSU](/Pictures/!RAID_Tank_Debuffs_TSU.png?raw=true "!RAID Tank Debuffs TSU")
 
 Shows debuffs on tanks and buffs on bosses in raids. Over-engineered, but so cool the ground will freeze under you when you use this.
 
-More info can be found in the [!RAID Tank Debuffs TSU.md](./!RAID Tank Debuffs TSU.md)
+More info can be found in the !RAID Tank Debuffs TSU.md
 
 
 ###### AfenarUI_CharProgression
-![AfenarUI_CharProgression](https://github.com/ahakola/WeakAuras/raw/master/Screenshots/AfenarUI_CharProgression.png "AfenarUI_CharProgression")
+![AfenarUI_CharProgression](/Pictures/AfenarUI_CharProgression.png?raw=true "AfenarUI_CharProgression")
 
 Group of aurabars such as XP-bar, Rep-bar, Azerite-bar, Honor-bar, etc. Don't ask me who Afenar is or how his/her UI looks like, I just found this group ages ago from Internet.
 
@@ -34,7 +34,7 @@ Aura notifying if someone in the group uses `[Toy Train Set]` near you or `[Swap
 
 
 ###### Brewmaster Monk auras
-![BrM Monk](https://github.com/ahakola/WeakAuras/raw/master/Screenshots/BrM_Monk.png "BrM Monk")
+![BrM Monk](/Pictures/BrM_Monk.png?raw=true "BrM Monk")
 
 `Black Ox Statue` - Information about your `[Black Ox Statue]`, for example remaining HP and CD. In the BfA game was changed so the Statue can show up as Totem 2 sometimes, but the auras work only when the Statue is the Totem 1.
 
@@ -50,19 +50,19 @@ Aura notifying if someone in the group uses `[Toy Train Set]` near you or `[Swap
 
 
 ###### Call to Arms
-![Call to Arms](https://github.com/ahakola/WeakAuras/raw/master/Screenshots/Call_to_Arms.png "Call to Arms")
+![Call to Arms](/Pictures/Call_to_Arms.png?raw=true "Call to Arms")
 
 List current Call to Arms instances and specs.
 
 
 ###### CombatRessAEE
-![CombatRessAEE](https://github.com/ahakola/WeakAuras/raw/master/Screenshots/CombatRessAEE.png "CombatRessAEE")
+![CombatRessAEE](/Pictures/CombatRessAEE.png?raw=true "CombatRessAEE")
 
 Number of remaining Combat Resses and a counter for recharge time.
 
 
 ###### Currencies
-![Currencies](https://github.com/ahakola/WeakAuras/raw/master/Screenshots/Currencies.png "Currencies")
+![Currencies](/Pictures/Currencies.png?raw=true "Currencies")
 
 List of different currencies and items used as currencies you have. Most of these are loaded only if you are in proper zone (for example `[Ancient Mana]` is shown only when in Suramar).
 
@@ -73,7 +73,7 @@ Legion-era Feral Druid DoT -tracker aura, doesn't work in BfA
 
 
 ###### FPS Counter
-![FPS Counter 400%](https://github.com/ahakola/WeakAuras/raw/master/Screenshots/FPS_Counter_400%.png "FPS Counter 400%")
+![FPS Counter 400%](/Pictures/FPS_Counter_400%.png?raw=true "FPS Counter 400%")
 
 FPS counter with 1 sec and 5 secs average FPS. Picture is pretty bad and it is enlarged 400% of original.
 
@@ -104,7 +104,7 @@ I think this is now part of the Currencies-group. Shows the amount of `[Wakening
 
 
 ###### Max Raid Cds Group
-![Max Raid Cds Group](https://github.com/ahakola/WeakAuras/raw/master/Screenshots/Max_Raid_Cds_Group.png "Max Raid Cds Group")
+![Max Raid Cds Group](/Pictures/Max_Raid_Cds_Group.png?raw=true "Max Raid Cds Group")
 
 Shows when someone in your raid group has CDs up. Max in the name is Maximum, GM of the guild "Complexity Limit".
 
@@ -134,7 +134,7 @@ Legion-era Windwalker Monk -group containing all you need(ed).
 
 
 ###### Mistweaver Monk auras
-![MW Monk](https://github.com/ahakola/WeakAuras/raw/master/Screenshots/MW_Monk.png "MW Monk")
+![MW Monk](/Pictures/MW_Monk.png?raw=true "MW Monk")
 
 `MW Monk CDs (BfA)` - Your big personal/group/raid "CD" abilities usable/on cooldown.
 
@@ -161,7 +161,7 @@ WoD-era legendary ring usage and cooldown tracker.
 
 
 ###### RaidMana
-![RaidMana](https://github.com/ahakola/WeakAuras/raw/master/Screenshots/RaidMana.png "RaidMana")
+![RaidMana](/Pictures/RaidMana.png?raw=true "RaidMana")
 
 Lists healers in your party/raid group with their mana percentages and calculates the average healer mana percentage from healer who are alive.
 
@@ -172,7 +172,7 @@ WoD?/Legion?-era, maybe even older?, tracker for Windwalker Monk's `[Storm, Eart
 
 
 ###### Spirit Beast Finder
-![Spirit Beast Finder](https://github.com/ahakola/WeakAuras/raw/master/Screenshots/Spirit_Beast_Finder.png "Spirit Beast Finder")
+![Spirit Beast Finder](/Pictures/Spirit_Beast_Finder.png?raw=true "Spirit Beast Finder")
 
 Makes a sound and marks the nameplate when this aura detects a nameplate of a spirit beast. You can configure what spirit beasts the aura tracks under `Custom Options`. Only loads with Beast Master Hunters.
 
@@ -208,46 +208,46 @@ Makes a sound and marks the nameplate when this aura detects a nameplate of a sp
 
 ###### BfA raids
 
-![T22 - Uldir - G'huun Orb Imperfect](https://github.com/ahakola/WeakAuras/raw/master/Screenshots/T22-Uldir-G'huun_Orb_Imperfect.png "T22 - Uldir - G'huun Orb Imperfect")
+![T22 - Uldir - G'huun Orb Imperfect](/Pictures/T22-Uldir-G'huun_Orb_Imperfect.png?raw=true "T22 - Uldir - G'huun Orb Imperfect")
 `T22 - Uldir - G'huun Orb Imperfect` - Auto-cloner for tracking `[Imperfect]`-debuff on players on `G'huun` raid-encounter. Used to coordinate orb-duty during the encounter.
 
-![T22 - Uldir](https://github.com/ahakola/WeakAuras/raw/master/Screenshots/T22-Uldir.png "T22 - Uldir")
+![T22 - Uldir](/Pictures/T22-Uldir.png?raw=true "T22 - Uldir")
 `T22 - Uldir` - Auras for "Uldir"-raid.
 
-![T22 Widgets](https://github.com/ahakola/WeakAuras/raw/master/Screenshots/T22-Widgets.png "T22 Widgets")
+![T22 Widgets](/Pictures/T22-Widgets.png?raw=true "T22 Widgets")
 `T22 Widgets` - Additional non-icon type auras for T22-raid.
 For example 2 different styled Zap-timers for `Zek'voz`, intermission timer with damage ticks marked for `G'huun`, 2 different styled roof collapse timers for `G'huun` and 2 different styled floor explosion timers with one showing the time window when the explosions happens.
 
-![T23 - Auro-Cloners](https://github.com/ahakola/WeakAuras/raw/master/Screenshots/T23-Auro-Cloners.png "T23 - Auro-Cloners")
+![T23 - Auro-Cloners](/Pictures/T23-Auro-Cloners.png?raw=true "T23 - Auro-Cloners")
 `T23 - Auro-Cloners` - Auto-cloners for T23-raid.
 
-![T23 - BoD - The Zandalari Crown Jewels](https://github.com/ahakola/WeakAuras/raw/master/Screenshots/T23-BoD-The_Zandalari_Crown_Jewels.png "T23 - BoD - The Zandalari Crown Jewels")
+![T23 - BoD - The Zandalari Crown Jewels](/Pictures/T23-BoD-The_Zandalari_Crown_Jewels.png?raw=true "T23 - BoD - The Zandalari Crown Jewels")
 `T23 - BoD - The Zandalari Crown Jewels` - Information about the different gems during the `Oppulence` raid-encounter in the "Battle for Dazar'alor"-raid. Shows you the buffs you get from the gems and has also small information text what your gem does.
 
-![T23 - BoD - Spark Bot Tampering](https://github.com/ahakola/WeakAuras/raw/master/Screenshots/T23-BoD-Spark_Bot_Tampering.png "T23 - BoD - Spark Bot Tampering")
+![T23 - BoD - Spark Bot Tampering](/Pictures/T23-BoD-Spark_Bot_Tampering.png?raw=true "T23 - BoD - Spark Bot Tampering")
 `T23 - BoD - Spark Bot Tampering` - Auragroup used for Tampering during the `High Tinker Mekkatorque` raid-encounter in the "Battle for Dazar'alor"-raid. While Tampering, target other bot and press the correct button to send the information to the other bot. Shows progress information and the sent color information for both your current target and yourself based on the received information from players in other bots.
 
-![T23 - BoD](https://github.com/ahakola/WeakAuras/raw/master/Screenshots/T23-BoD.png "T23 - BoD")
+![T23 - BoD](/Pictures/T23-BoD.png?raw=true "T23 - BoD")
 `T23 - BoD` - Auras for "Battle for Dazar'alor"-raid.
 
-![T23 - Widgets](https://github.com/ahakola/WeakAuras/raw/master/Screenshots/T23-Widgets.png "T23 - Widgets")
+![T23 - Widgets](/Pictures/T23-Widgets.png?raw=true "T23 - Widgets")
 `T23 - Widgets` - Additional non-icon type auras for T23-raid.
 For example HP difference bars for `Jadefire Masters`, energy bar for `Grong` with the sweetspot for `[Tantrum]`/`[Death Knell]` marked, HP difference for the guardians and guardian HP based room progressbar showing room changes and traps in every room with tips when to use CDs (doesn't render properly in the screenshot), Krag'wa leaping frog timer for the `Conclave of the Chosen` and HP difference for the phase 1 and `[Ire of the Deep]` timer for phase 2 of the `Stormwall Blockade`.
 
-![T24 - EP](https://github.com/ahakola/WeakAuras/raw/master/Screenshots/T24-EP.png "T24 - EP")
+![T24 - EP](/Pictures/T24-EP.png?raw=true "T24 - EP")
 `T24 - EP` - Auras for "The Eternal Palace"-raid.
 
-![T24 - Queen's Decree](https://github.com/ahakola/WeakAuras/raw/master/Screenshots/T24-Queen's_Decree.png "T24 - Queen's Decree")
+![T24 - Queen's Decree](/Pictures/T24-Queen's_Decree.png?raw=true "T24 - Queen's Decree")
 `T24 - Queen's Decree` - Helper for the intermissions during the `Queen Azshara` raid-encounter. Shows with big icons and green and red words what to do and/or what not do and also has smaller simplified text information what you should be doing during the intermissions.
 
-![T24 - Widgets](https://github.com/ahakola/WeakAuras/raw/master/Screenshots/T24-Widgets.png "T24 - Widgets")
+![T24 - Widgets](/Pictures/T24-Widgets.png?raw=true "T24 - Widgets")
 `T24 - Widgets` - Additional non-icon type auras for T24-raid.
 For example progress bar for the `[Dribbling Ichor]` (aka "dance") with damage ticks (ticks doesn't render properly in the screenshot) for `Orgozoa`, instructions with remaining time for all decrees for `Queen's Court`, timer for `[Maddening Eruptions]`-zone explosion (the damage taken debuff) for `Za'qul` and soakable stacks counter for wards, you can soak warning text and overload timer with overload stacks remaining counter for `Queen Azshara`.
 
-![T25 - Ny'alotha](https://github.com/ahakola/WeakAuras/raw/master/Screenshots/T25-Ny'alotha.png "T25 - Ny'alotha")
+![T25 - Ny'alotha](/Pictures/T25-Ny'alotha.png?raw=true "T25 - Ny'alotha")
 `T25 - Ny'alotha` - Auras for "Ny'alotha, the Waking City"-raid.
 
-![T25 - Widgets](https://github.com/ahakola/WeakAuras/raw/master/Screenshots/T25-Widgets.png "T25 - Widgets")
+![T25 - Widgets](/Pictures/T25-Widgets.png?raw=true "T25 - Widgets")
 `T25 - Widgets` - Additional non-icon type auras for T25-raid.
 For example worldmarker reminder where to stand with `[Unstable Vita]` for `Ra-den the Despoiled` and `[Gift of N'Zoth]` (the damage buff before being MCed for losing all your Sanity) indicator for both `Carapace of N'Zoth` and `N'Zoth, the Corruptor`.
 
@@ -257,7 +257,7 @@ For example worldmarker reminder where to stand with `[Unstable Vita]` for `Ra-d
 Counter counting time left for the target to die based on how fast/slow the HP goes down.
 
 ###### World Events
-![World Events](https://github.com/ahakola/WeakAuras/raw/master/Screenshots/World_Events.png "World Events")
+![World Events](/Pictures/World_Events.png?raw=true "World Events")
 
 Old auras used for help on World Events. At least includes indicators for `Brewfest` ram racing such as speed indicator `[Ram Level - Neutral]`, `[Ram - Trot]`, `[Ram - Canter]` and `[Ram - Gallop]` with `[Ram Fatigue]` counter and indicators for `[Exhausted Ram]` and if you are carrying `[Portable Brewfest Keg]`.
 Also includes timer for the daily Ram Race -quest with time elapsed since and time left when you started your last round, counter for how many rounds you have completed, current round time elapsed, total time spent on quest, last round time, your best round time, average round time and median round time.
