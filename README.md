@@ -19,7 +19,7 @@ Pre-WoD stuff has been lost like tears in the rain. If you have WAs made/collect
 
 Shows debuffs on tanks and buffs on bosses in raids. Over-engineered, but so cool the ground will freeze under you when you use this.
 
-More info can be found in the !RAID_Tank_Debuffs_TSU.md
+More info can be found in the [!RAID Tank Debuffs TSU.md](https://github.com/ahakola/WeakAuras/blob/master/!RAID%20Tank%20Debuffs%20TSU.md)
 
 
 ##### AfenarUI_CharProgression

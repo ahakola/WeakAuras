@@ -1,6 +1,6 @@
 # !RAID Tank Debuffs TSU
 
-![!RAID Tank Debuffs TSU](/Screenshots/!RAID_Tank_Debuffs_TSU.png?raw=true "!RAID Tank Debuffs TSU")
+![!RAID Tank Debuffs TSU](/Screenshots/RAID_Tank_Debuffs_TSU.png?raw=true "!RAID Tank Debuffs TSU")
 
 Trigger State Updater (TSU) based auto-cloning raidgroup tank debuff and boss buff -tracker for tanks. It shows pre-defined tank debuffs and boss buffs with stack counter, timer for time remaining and posibility to highlight certain stack count to indicate time for tank swap, all grouped nicely by character and all the groupnames are clearly shown for improved readability.
 
@@ -34,7 +34,7 @@ When adding new auras, add the tank debuffs to the `aura_env.debuffs`-table and 
 
 ## Building
 
-Easiest way is to import [!RAID Tank Debuffs TSU.txt](/!RAID Tank Debuffs TSU.txt), but if you want to, you can easily make your own.
+Easiest way is to import [!RAID Tank Debuffs TSU.txt](https://github.com/ahakola/WeakAuras/blob/master/!RAID%20Tank%20Debuffs%20TSU.txt), but if you want to, you can easily make your own.
 
 
 ### Create Dynamic Group and Icon-type aura
