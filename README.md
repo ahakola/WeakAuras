@@ -14,26 +14,26 @@ Pre-WoD stuff has been lost like tears in the rain. If you have WAs made/collect
 
 ## Auras
 
-###### !RAID Tank Debuffs TSU
-![!RAID Tank Debuffs TSU](/Pictures/!RAID_Tank_Debuffs_TSU.png?raw=true "!RAID Tank Debuffs TSU")
+##### !RAID Tank Debuffs TSU
+![!RAID Tank Debuffs TSU](/Pictures/RAID_Tank_Debuffs_TSU.png?raw=true "!RAID Tank Debuffs TSU")
 
 Shows debuffs on tanks and buffs on bosses in raids. Over-engineered, but so cool the ground will freeze under you when you use this.
 
-More info can be found in the !RAID Tank Debuffs TSU.md
+More info can be found in the !RAID_Tank_Debuffs_TSU.md
 
 
-###### AfenarUI_CharProgression
+##### AfenarUI_CharProgression
 ![AfenarUI_CharProgression](/Pictures/AfenarUI_CharProgression.png?raw=true "AfenarUI_CharProgression")
 
 Group of aurabars such as XP-bar, Rep-bar, Azerite-bar, Honor-bar, etc. Don't ask me who Afenar is or how his/her UI looks like, I just found this group ages ago from Internet.
 
 
-###### Annoyances
+##### Annoyances
 
 Aura notifying if someone in the group uses `[Toy Train Set]` near you or `[Swap Blaster]` on you.
 
 
-###### Brewmaster Monk auras
+##### Brewmaster Monk auras
 ![BrM Monk](/Pictures/BrM_Monk.png?raw=true "BrM Monk")
 
 `Black Ox Statue` - Information about your `[Black Ox Statue]`, for example remaining HP and CD. In the BfA game was changed so the Statue can show up as Totem 2 sometimes, but the auras work only when the Statue is the Totem 1.
@@ -49,91 +49,91 @@ Aura notifying if someone in the group uses `[Toy Train Set]` near you or `[Swap
 `BrM Monk Brews (BfA)` - Shows your available brew stacks, recharge time of your brews and `[Ironskin Brew]` (BrM Monk Active Mitigation) remaining time with color to tell you when to use and when to not use `[Ironskin Brew]`. Requires the Defensive-group!
 
 
-###### Call to Arms
+##### Call to Arms
 ![Call to Arms](/Pictures/Call_to_Arms.png?raw=true "Call to Arms")
 
 List current Call to Arms instances and specs.
 
 
-###### CombatRessAEE
+##### CombatRessAEE
 ![CombatRessAEE](/Pictures/CombatRessAEE.png?raw=true "CombatRessAEE")
 
 Number of remaining Combat Resses and a counter for recharge time.
 
 
-###### Currencies
+##### Currencies
 ![Currencies](/Pictures/Currencies.png?raw=true "Currencies")
 
 List of different currencies and items used as currencies you have. Most of these are loaded only if you are in proper zone (for example `[Ancient Mana]` is shown only when in Suramar).
 
 
-###### FeralDruidMeters
+##### FeralDruidMeters
 
 Legion-era Feral Druid DoT -tracker aura, doesn't work in BfA
 
 
-###### FPS Counter
+##### FPS Counter
 ![FPS Counter 400%](/Pictures/FPS_Counter_400%.png?raw=true "FPS Counter 400%")
 
 FPS counter with 1 sec and 5 secs average FPS. Picture is pretty bad and it is enlarged 400% of original.
 
 
-###### HFC Gorefiend - Digest Timer
+##### HFC Gorefiend - Digest Timer
 
 WoD-era aurabar-style timer of `Gorefiend` raid-encounter in Hellfire Citadel.
 
 
-###### Legion - AutoCloners
+##### Legion - AutoCloners
 
 Different raid related auto-cloning aurabars from Legion.
 
 
-###### Legion - Pantheon Trinkets
+##### Legion - Pantheon Trinkets
 
 Aura to keep track of the Argus-raid trinkets
 
 
-###### Legion - Suramar - Ancient Mana
+##### Legion - Suramar - Ancient Mana
 
 I think this is now part of the Currencies-group. Just shows the amount and the cap of your `[Ancient Mana]`. `[Ancient Mana]` is used as currency in Suramar-zone.
 
 
-###### Legion - Wakening Essence
+##### Legion - Wakening Essence
 
 I think this is now part of the Currencies-group. Shows the amount of `[Wakening Essence]` you have on you. `[Wakening Essence]` is used to buy the legendary-items in Legion.
 
 
-###### Max Raid Cds Group
+##### Max Raid Cds Group
 ![Max Raid Cds Group](/Pictures/Max_Raid_Cds_Group.png?raw=true "Max Raid Cds Group")
 
 Shows when someone in your raid group has CDs up. Max in the name is Maximum, GM of the guild "Complexity Limit".
 
 
-###### Mechagon Nazjatar Vignette Rare Scanner (Pimpped)
+##### Mechagon Nazjatar Vignette Rare Scanner (Pimpped)
 
 Scans rare mobs in Mechagon and Nazjatar zones using minimap Vignettes.
 
 Found from Wago.io, but I pimpped it up to use DBM arrow if TomTom isn't available (I don't use it).
 
 
-###### Mechagon Yell Rare Scanner (Pimpped)
+##### Mechagon Yell Rare Scanner (Pimpped)
 
 Scans rare mobs in Mechagon using the zone wide yells some rares do when they spawn.
 
 Found from Wago.io, but I pimpped it up to use DBM arrow if TomTom isn't available (I don't use it).
 
 
-###### Monk - Windwalker Chi
+##### Monk - Windwalker Chi
 
 Your everyday Chi-point counter.
 
 
-###### Monk - WW (Legion)
+##### Monk - WW (Legion)
 
 Legion-era Windwalker Monk -group containing all you need(ed).
 
 
-###### Mistweaver Monk auras
+##### Mistweaver Monk auras
 ![MW Monk](/Pictures/MW_Monk.png?raw=true "MW Monk")
 
 `MW Monk CDs (BfA)` - Your big personal/group/raid "CD" abilities usable/on cooldown.
@@ -143,41 +143,41 @@ Legion-era Windwalker Monk -group containing all you need(ed).
 `MW Monk Utility (BfA)` - Your `[Teachings of the Monastery]` stack counter, `[Detox]` cooldown status, and Tea statuses.
 
 
-###### MW Monk
+##### MW Monk
 
 Probably Legion-era Mistweaver Monk -group?
 
 
-###### Nzoth VIgnette Assault Scanner (Pimpped)
+##### Nzoth VIgnette Assault Scanner (Pimpped)
 
 Scans rare mobs in Vale of the Eternal Blossom and Uldum zones using minimap Vignettes.
 
 Found from Wago.io, but I pimpped it up to use DBM arrow if TomTom isn't available (I don't use it).
 
 
-###### ORANGE_RINGS_TRALALA
+##### ORANGE_RINGS_TRALALA
 
 WoD-era legendary ring usage and cooldown tracker.
 
 
-###### RaidMana
+##### RaidMana
 ![RaidMana](/Pictures/RaidMana.png?raw=true "RaidMana")
 
 Lists healers in your party/raid group with their mana percentages and calculates the average healer mana percentage from healer who are alive.
 
 
-###### SEF
+##### SEF
 
 WoD?/Legion?-era, maybe even older?, tracker for Windwalker Monk's `[Storm, Earth, and Fire]`. This isn't useful anymore.
 
 
-###### Spirit Beast Finder
+##### Spirit Beast Finder
 ![Spirit Beast Finder](/Pictures/Spirit_Beast_Finder.png?raw=true "Spirit Beast Finder")
 
 Makes a sound and marks the nameplate when this aura detects a nameplate of a spirit beast. You can configure what spirit beasts the aura tracks under `Custom Options`. Only loads with Beast Master Hunters.
 
 
-###### WoD raids
+##### WoD raids
 
 `T17 HM` - Auras for "Highmaul"-raid.
 
@@ -188,7 +188,7 @@ Makes a sound and marks the nameplate when this aura detects a nameplate of a sp
 `T18 Widgets` - Additional non-icon type auras for T18-raid.
 
 
-###### Legion raids
+##### Legion raids
 
 `T19 EN` - Auras for "Emerald Nightmare"-raid.
 
@@ -206,7 +206,7 @@ Makes a sound and marks the nameplate when this aura detects a nameplate of a sp
 `T21 Widgets` - Additional non-icon type auras for T21-raid.
 
 
-###### BfA raids
+##### BfA raids
 
 ![T22 - Uldir - G'huun Orb Imperfect](/Pictures/T22-Uldir-G'huun_Orb_Imperfect.png?raw=true "T22 - Uldir - G'huun Orb Imperfect")
 `T22 - Uldir - G'huun Orb Imperfect` - Auto-cloner for tracking `[Imperfect]`-debuff on players on `G'huun` raid-encounter. Used to coordinate orb-duty during the encounter.
@@ -252,11 +252,11 @@ For example progress bar for the `[Dribbling Ichor]` (aka "dance") with damage t
 For example worldmarker reminder where to stand with `[Unstable Vita]` for `Ra-den the Despoiled` and `[Gift of N'Zoth]` (the damage buff before being MCed for losing all your Sanity) indicator for both `Carapace of N'Zoth` and `N'Zoth, the Corruptor`.
 
 
-###### Target Health Rate (New)
+##### Target Health Rate (New)
 
 Counter counting time left for the target to die based on how fast/slow the HP goes down.
 
-###### World Events
+##### World Events
 ![World Events](/Pictures/World_Events.png?raw=true "World Events")
 
 Old auras used for help on World Events. At least includes indicators for `Brewfest` ram racing such as speed indicator `[Ram Level - Neutral]`, `[Ram - Trot]`, `[Ram - Canter]` and `[Ram - Gallop]` with `[Ram Fatigue]` counter and indicators for `[Exhausted Ram]` and if you are carrying `[Portable Brewfest Keg]`.
