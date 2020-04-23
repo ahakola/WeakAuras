@@ -6,7 +6,7 @@ Shows debuffs on tanks and buffs on bosses in raids. Over-engineered, but so coo
 
 Export string | Descripion
 ------------- | ----------
-[!RAID Tank Debuffs TSU.txt](/ExportStrings/!RAID%20Tank%20Debuffs%20TSU.txt) | Shows debuffs on tanks and buffs on bosses in raids.
+[!RAID Tank Debuffs TSU.txt](/ExportStrings/!RAID%20Tank%20Debuffs%20TSU.txt) | Shows debuffs on tanks and buffs on bosses in raids. Over-engineered, but so cool the ground will freeze under you when you use this.
 
 ---
 

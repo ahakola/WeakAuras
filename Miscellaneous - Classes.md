@@ -5,7 +5,7 @@ Miscellaneous groups and auras for different classes.
 Export string | Descripion
 ------------- | ----------
 [FeralDruidMeters.txt](/ExportStrings/FeralDruidMeters.txt) | Legion-era Feral Druid DoT -tracker.
-[Spirit Beast Finder.txt](/ExportStrings/Spirit%20Beast%%20Finder.txt) | Mark nameplates of tracked spirit beasts.
+[Spirit Beast Finder.txt](/ExportStrings/Spirit%20Beast%20Finder.txt) | Mark nameplates of tracked spirit beasts.
 
 ---
 

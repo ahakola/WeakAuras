@@ -22,12 +22,11 @@ More info and screenshots: [!RAID Tank Debuffs TSU.md](/!RAID%20Tank%20Debuffs%2
 
 Export string | Descripion
 ------------- | ----------
-[!RAID Tank Debuffs TSU.txt](/ExportStrings/!RAID%20Tank%20Debuffs%20TSU.txt) | Shows debuffs on tanks and buffs on bosses in raids.
+[!RAID Tank Debuffs TSU.txt](/ExportStrings/!RAID%20Tank%20Debuffs%20TSU.txt) | Shows debuffs on tanks and buffs on bosses in raids. Over-engineered, but so cool the ground will freeze under you when you use this.
 
+---
 
 ### Brewmaster Monk auras
-
-![BrM Monk](/Pictures/BrM_Monk.png?raw=true "BrM Monk")
 
 More info and screenshots: [Brewmaster Monk.md](/Brewmaster%20Monk.md)
 
@@ -42,8 +41,6 @@ Export string | Descripion
 
 
 ### Mistweaver Monk
-
-![MW Monk](/Pictures/MW_Monk.png?raw=true "MW Monk")
 
 More info and screenshots: [Mistweaver Monk.md](/Mistweaver%20Monk.md)
 
@@ -65,6 +62,7 @@ Export string | Descripion
 [Monk - WW (Legion).txt](/ExportStringsMonk%20-%20WW%20(Legion).txt) | Legion-era Windwalker Monk -group.
 [SEF.txt](/ExportStrings/SEF.txt) | Windwalker Monk's `[Storm, Earth, and Fire]`-tracker.
 
+---
 
 ## Miscellaneous - Classes
 
@@ -73,7 +71,7 @@ More info and screenshots: [Miscellaneous - Classes.md](/Miscellaneous%20-%20Cla
 Export string | Descripion
 ------------- | ----------
 [FeralDruidMeters.txt](/ExportStrings/FeralDruidMeters.txt) | Legion-era Feral Druid DoT -tracker.
-[Spirit Beast Finder.txt](/ExportStrings/Spirit%20Beast%%20Finder.txt) | Mark nameplates of tracked spirit beasts.
+[Spirit Beast Finder.txt](/ExportStrings/Spirit%20Beast%20Finder.txt) | Mark nameplates of tracked spirit beasts.
 
 
 ## Miscellaneous - Mixed
@@ -110,6 +108,7 @@ Export string | Descripion
 [Mechagon Yell Rare Scanner (Pimpped).txt](/ExportStrings/Mechagon%20Yell%20Rare%20Scanner%20(Pimpped).txt) | Scans rare mobs in Mechagon using the zone wide yells rares do when they spawn.
 [Nzoth VIgnette Assault Scanner (Pimpped).txt](/ExportStrings/Nzoth%20VIgnette%20Assault%20Scanner%20(Pimpped).txt) | Scans rare mobs in Vale of the Eternal Blossom and Uldum zones using minimap Vignettes.
 
+---
 
 ### Raids - General
 
