@@ -16,17 +16,15 @@ Pre-WoD stuff has been lost like tears in the rain. If you have WAs made/collect
 
 ### !RAID Tank Debuffs TSU
 
-![!RAID Tank Debuffs TSU](/Pictures/RAID_Tank_Debuffs_TSU.png?raw=true "!RAID Tank Debuffs TSU")
-
 More info and screenshots: [!RAID Tank Debuffs TSU.md](/!RAID%20Tank%20Debuffs%20TSU.md)
 
 Export string | Descripion
 ------------- | ----------
-[!RAID Tank Debuffs TSU.txt](/ExportStrings/!RAID%20Tank%20Debuffs%20TSU.txt) | Shows debuffs on tanks and buffs on bosses in raids. Over-engineered, but so cool the ground will freeze under you when you use this.
+[!RAID Tank Debuffs TSU.txt](/ExportStrings/!RAID%20Tank%20Debuffs%20TSU.txt) | Shows debuffs on tanks and buffs on bosses in raids. **Must have for tanks!**
 
 ---
 
-### Brewmaster Monk auras
+### Brewmaster Monk
 
 More info and screenshots: [Brewmaster Monk.md](/Brewmaster%20Monk.md)
 
