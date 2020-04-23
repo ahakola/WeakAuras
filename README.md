@@ -25,7 +25,7 @@ More info can be found in the [!RAID Tank Debuffs TSU.md](https://github.com/aha
 #### AfenarUI_CharProgression
 ![AfenarUI_CharProgression](/Pictures/AfenarUI_CharProgression.png?raw=true "AfenarUI_CharProgression")
 
-Group of aurabars such as XP-bar, Rep-bar, Azerite-bar, Honor-bar, etc. Don't ask me who Afenar is or how his/her UI looks like, I just found this group ages ago from Internet.
+Group of aurabars such as XP-bar, Rep-bar, Azerite-bar, Honor-bar, etc. Don't ask me who Afenar is or how his/her UI looks like, I just found this group ages ago from Internet and I have been fixing/updating the group on my own since then.
 
 
 #### Annoyances
@@ -46,7 +46,7 @@ Aura notifying if someone in the group uses `[Toy Train Set]` near you or `[Swap
 
 `BrM Monk (BfA) - Rotation` - Cooldown/Uptime status of your offensive abilities.
 
-`BrM Monk Brews (BfA)` - Shows your available brew stacks, recharge time of your brews and `[Ironskin Brew]` (BrM Monk Active Mitigation) remaining time with color to tell you when to use and when to not use `[Ironskin Brew]`. Requires the Defensive-group!
+`BrM Monk Brews (BfA)` - Shows your available brew stacks, recharge time of your brews and `[Ironskin Brew]` (BrM Monk Active Mitigation) remaining time with color to tell you when to use and when to not use `[Ironskin Brew]`. **Requires the Defensive-group!**
 
 
 #### Call to Arms

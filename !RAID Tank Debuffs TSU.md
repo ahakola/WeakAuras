@@ -1,6 +1,6 @@
 # !RAID Tank Debuffs TSU
 
-![!RAID Tank Debuffs TSU](/Screenshots/RAID_Tank_Debuffs_TSU.png?raw=true "!RAID Tank Debuffs TSU")
+![!RAID Tank Debuffs TSU](/Pictures/RAID_Tank_Debuffs_TSU.png?raw=true "!RAID Tank Debuffs TSU")
 
 Trigger State Updater (TSU) based auto-cloning raidgroup tank debuff and boss buff -tracker for tanks. It shows pre-defined tank debuffs and boss buffs with stack counter, timer for time remaining and posibility to highlight certain stack count to indicate time for tank swap, all grouped nicely by character and all the groupnames are clearly shown for improved readability.
 
@@ -32,9 +32,12 @@ When adding new auras, add the tank debuffs to the `aura_env.debuffs`-table and 
 
 ---
 
+The default action can be found under the section [Set up "On Init"-action](/!RAID%20Tank%20Debuffs%20TSU.md#set-up-on-init-action) of this file.
+
+
 ## Building
 
-Easiest way is to import [!RAID Tank Debuffs TSU.txt](https://github.com/ahakola/WeakAuras/blob/master/!RAID%20Tank%20Debuffs%20TSU.txt), but if you want to, you can easily make your own.
+Easiest way is to import [!RAID Tank Debuffs TSU.txt](/!RAID%20Tank%20Debuffs%20TSU.txt), but if you want to, you can easily make your own.
 
 
 ### Create Dynamic Group and Icon-type aura
@@ -176,7 +179,7 @@ aura_env.buffs = {
 
 ### Set up Triggers
 
-#### Required for Actication
+#### Required for Activation
 
 We need to set up two triggers, one for the auto-cloning and one for the tankswap highlighting. Because we will use the 2nd trigger only for testing if we have aggro, we will set `Required for Activation` to a `Custom Function` and tell the function to pay attention only to the first trigger:
 
@@ -475,34 +478,34 @@ With Display settings we can leave it pretty much on the default-settings, but I
 
 We setup the first Text-element to have huge numbers in the middle of the icon and show the stack count:
 
-Text: `%s`
-Size: `48`
-Anchor: `CENTER`
+- Text: `%s`
+- Size: `48`
+- Anchor: `CENTER`
 
 For second Text-element we setup smaller number in the bottom right corner showing the time remaining:
 
-Text: `%p`
-Size: `18`
-Anchor: `BOTTOMRIGHT Outter BOTTOMRIGHT -2, 2`
+- Text: `%p`
+- Size: `18`
+- Anchor: `BOTTOMRIGHT Outter BOTTOMRIGHT -2, 2`
 
 If you prefer to have huge timer and small stack count, you can swap the `%s` and `%p` around in the first and second Text-elements.
 
 The third Text-element is going to contain the names of the units and the aura will always fill the tank names to the third Text-element no matter what you set the `Text` to show.
 
-Text: `%n`
-Size: `48`
-Anchor: `LEFT Outter RIGHT 10, 0`
+- Text: `%n`
+- Size: `48`
+- Anchor: `LEFT Outter RIGHT 10, 0`
 
 And now we set up the glow we get when we need a tank swap:
 
-Show Glow: `Unchecked`
-Type: `Pixel Glow`
-Color: `255, 0, 0`
-Lines: `8`
-Frequency: `0.25`
-Length: `10`
-Thickness: `2`
-Offset: `0, 0`
+- Show Glow: `Unchecked`
+- Type: `Pixel Glow`
+- Color: `255, 0, 0`
+- Lines: `8`
+- Frequency: `0.25`
+- Length: `10`
+- Thickness: `2`
+- Offset: `0, 0`
 
 All these settings are just an example, you can use your own imagination if this doesn't fancy you and set the fonts, sizes and positions to what ever you like.
 
