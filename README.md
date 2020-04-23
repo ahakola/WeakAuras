@@ -73,7 +73,7 @@ Legion-era Feral Druid DoT -tracker aura, doesn't work in BfA
 
 
 ### FPS Counter
-![FPS Counter 400%](/Pictures/FPS_Counter_400%.png?raw=true "FPS Counter 400%")
+![FPS Counter 400%](/Pictures/FPS_Counter_400.png?raw=true "FPS Counter 400%")
 
 FPS counter with 1 sec and 5 secs average FPS. Picture is pretty bad and it is enlarged 400% of original.
 
