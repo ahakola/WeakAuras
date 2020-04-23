@@ -181,8 +181,12 @@ Makes a sound and marks the nameplate when this aura detects a nameplate of a sp
 
 `T17 HM` - Auras for "Highmaul"-raid.
 
+---
+
 `T17 BRF` - Auras for "Blackrock Foundry"-raid.
 `T17 Widgets` - Additional non-icon type auras for T17-raids.
+
+---
 
 `T18 HFC` - Auras for "Hellfire Citadel"-raid.
 `T18 Widgets` - Additional non-icon type auras for T18-raid.
@@ -192,14 +196,22 @@ Makes a sound and marks the nameplate when this aura detects a nameplate of a sp
 
 `T19 EN` - Auras for "Emerald Nightmare"-raid.
 
+---
+
 `T19 - ToV` - Auras for "Trial of Valor"-raid.
 `T19 - The Impostant One` - Don't let your healers sleep when stuff gets real! Typo in the name was an accident, but left it on purpose to see if anyone notices.
+
+---
 
 `T19 - NH` - Auras for "Nighthold"-raid.
 `T19 Widgets` - Additional non-icon type auras for T19-raids.
 
+---
+
 `T20 - ToS` - Auras for "Tomb of Sargeras"-raid.
 `T20 Widgets` - Additional non-icon type auras for T20-raid.
+
+---
 
 `T21 - Antorus` - Auras for "Antorus, the Burning Throne"-raid.
 `T21 - The Impostant One` - Once again the healers were sleepy in wrong time!
@@ -219,7 +231,10 @@ Makes a sound and marks the nameplate when this aura detects a nameplate of a sp
 ![T22 Widgets](/Pictures/T22-Widgets.png?raw=true "T22 Widgets")
 
 `T22 Widgets` - Additional non-icon type auras for T22-raid.
+
 For example 2 different styled Zap-timers for `Zek'voz`, intermission timer with damage ticks marked for `G'huun`, 2 different styled roof collapse timers for `G'huun` and 2 different styled floor explosion timers with one showing the time window when the explosions happens.
+
+---
 
 ![T23 - Auro-Cloners](/Pictures/T23-Auro-Cloners.png?raw=true "T23 - Auro-Cloners")
 
@@ -240,7 +255,10 @@ For example 2 different styled Zap-timers for `Zek'voz`, intermission timer with
 ![T23 - Widgets](/Pictures/T23-Widgets.png?raw=true "T23 - Widgets")
 
 `T23 - Widgets` - Additional non-icon type auras for T23-raid.
+
 For example HP difference bars for `Jadefire Masters`, energy bar for `Grong` with the sweetspot for `[Tantrum]`/`[Death Knell]` marked, HP difference for the guardians and guardian HP based room progressbar showing room changes and traps in every room with tips when to use CDs (doesn't render properly in the screenshot), Krag'wa leaping frog timer for the `Conclave of the Chosen` and HP difference for the phase 1 and `[Ire of the Deep]` timer for phase 2 of the `Stormwall Blockade`.
+
+---
 
 ![T24 - EP](/Pictures/T24-EP.png?raw=true "T24 - EP")
 
@@ -253,7 +271,10 @@ For example HP difference bars for `Jadefire Masters`, energy bar for `Grong` wi
 ![T24 - Widgets](/Pictures/T24-Widgets.png?raw=true "T24 - Widgets")
 
 `T24 - Widgets` - Additional non-icon type auras for T24-raid.
+
 For example progress bar for the `[Dribbling Ichor]` (aka "dance") with damage ticks (ticks doesn't render properly in the screenshot) for `Orgozoa`, instructions with remaining time for all decrees for `Queen's Court`, timer for `[Maddening Eruptions]`-zone explosion (the damage taken debuff) for `Za'qul` and soakable stacks counter for wards, you can soak warning text and overload timer with overload stacks remaining counter for `Queen Azshara`.
+
+---
 
 ![T25 - Ny'alotha](/Pictures/T25-Ny'alotha.png?raw=true "T25 - Ny'alotha")
 
@@ -262,12 +283,14 @@ For example progress bar for the `[Dribbling Ichor]` (aka "dance") with damage t
 ![T25 - Widgets](/Pictures/T25-Widgets.png?raw=true "T25 - Widgets")
 
 `T25 - Widgets` - Additional non-icon type auras for T25-raid.
+
 For example worldmarker reminder where to stand with `[Unstable Vita]` for `Ra-den the Despoiled` and `[Gift of N'Zoth]` (the damage buff before being MCed for losing all your Sanity) indicator for both `Carapace of N'Zoth` and `N'Zoth, the Corruptor`.
 
 
 ### Target Health Rate (New)
 
 Counter counting time left for the target to die based on how fast/slow the HP goes down.
+
 
 ### World Events
 ![World Events](/Pictures/World_Events.png?raw=true "World Events")
