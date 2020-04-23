@@ -30,9 +30,9 @@ When adding new auras, add the tank debuffs to the `aura_env.debuffs`-table and 
 	-- 'number' to show when aura is found and highlight when stack-count is equal or above the set number
 ```
 
----
-
 The default action can be found under the section [Set up "On Init"-action](/!RAID%20Tank%20Debuffs%20TSU.md#set-up-on-init-action) of this file.
+
+---
 
 
 ## Building
