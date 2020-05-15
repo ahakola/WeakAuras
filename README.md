@@ -82,7 +82,7 @@ Export string | Descripion
 [Annoyances.txt](/ExportStrings/Annoyances.txt) | Call out annoying stuff like `[Toy Train Set]` and `[Swap Blaster]`.
 [Call to Arms.txt](/ExportStrings/Call%20to%20Arms.txt) | List current Call to Arms instances and specs.
 [Currencies.txt](/ExportStrings/Currencies.txt) | List of different currencies and items used as currencies you have.
-[FPS Counter.txt](/ExportStrings/FPS%20Counter.txt) | FPS counter with 1 sec and 5 secs average FPS.
+[FPS Counter.txt](/ExportStrings/FPS%20Counter.txt) | FPS counter with current and 5 secs average FPS.
 [World Events.txt](/ExportStrings/World%20Events.txt) | Group of old auras used for help on World Events.
 
 

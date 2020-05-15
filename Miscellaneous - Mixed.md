@@ -43,7 +43,7 @@ List of different currencies and items used as currencies you have. Most of thes
 
 ![FPS Counter 400%](/Pictures/FPS_Counter_400.png?raw=true "FPS Counter 400%")
 
-FPS counter with 1 sec and 5 secs average FPS. Picture is pretty bad and it is enlarged 400% of original.
+FPS counter with current and 5 secs average FPS. Picture is enlarged 400% of original on top and original size on bottom.
 
 
 ## World Events
