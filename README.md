@@ -176,3 +176,13 @@ Export string | Descripion
 [T25 - Widgets.txt](/ExportStrings/T25%20-%20Widgets.txt) | Additional non-icon type auras for T25-raid.
 
 ---
+
+## Classic / BCClassic
+
+Export string | Descripion
+------------- | ----------
+[Dungeon Levels (BCClassic).txt](/ExportStrings/Dungeon%20Levels%20(BCClassic).txt) | Dungeon Levels (BCClassic). Shows what dungeons/wings you are good for at your current level. Don't forget to check the settings.
+[Mana Regen (Classic).txt](/ExportStrings/Mana%20Regen%20(Classic).txt) | Mana Regen (Classic). Shows bar with the mana regen ticker.
+[Professions (BCClassic).txt](/ExportStrings/Professions%20(BCClassic).txt) | Professions (BCClassic). Probably shows your characters professions and their skill levels, can't remember lol :D
+
+---
